@@ -1,3 +1,4 @@
+###Hi, I'm Shrushti
 
 Information Technology Student
 Currently Exploring Software Development
@@ -6,12 +7,12 @@ Currently Exploring Software Development
 * 💻 **Languages & Technologies:** C, C++, JavaScript, HTML, CSS
 * 📫 **How to reach me:** [shrushtiawari@gmail.com](mailto:shrushtiawari@gmail.com)
 
-## 🤝 Connect with me
+## Connect with me
 
-* 💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/shrushti-awari-7411a1329)
-* 🧩 **LeetCode:** [LeetCode](https://leetcode.com/u/shrushti_awari)
+* 💼 [LinkedIn](https://linkedin.com/in/shrushti-awari-7411a1329)
+* 🧩 [LeetCode](https://leetcode.com/u/shrushti_awari)
 
-## 🛠️ Languages and Technologies
+## Languages and Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
