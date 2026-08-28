@@ -1,4 +1,4 @@
-###Hi, I'm Shrushti
+Hi, I'm Shrushti Awari
 
 Information Technology Student
 Currently Exploring Software Development
@@ -8,9 +8,13 @@ Currently Exploring Software Development
 * 📫 **How to reach me:** [shrushtiawari@gmail.com](mailto:shrushtiawari@gmail.com)
 
 ## Connect with me
-
-* 💼 [LinkedIn](https://linkedin.com/in/shrushti-awari-7411a1329)
-* 🧩 [LeetCode](https://leetcode.com/u/shrushti_awari)
+<a href="https://linkedin.com/in/shrushti-awari-7411a1329">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/shrushti_awari">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" alt="LeetCode"/>
+</a>
 
 ## Languages and Technologies
 
