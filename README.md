@@ -1,10 +1,8 @@
 Hi, I'm Shrushti Awari
 
-Information Technology Student
-Currently Exploring Software Development
+Information Technology Student | Currently Exploring Software Development
 
-* 🌱 **Currently learning:** React.js and Java
-* 💻 **Languages & Technologies:** C, C++, JavaScript, HTML, CSS
+* **Currently learning:** React.js and Java
 * 📫 **How to reach me:** [shrushtiawari@gmail.com](mailto:shrushtiawari@gmail.com)
 
 ## Connect with me
