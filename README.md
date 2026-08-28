@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Shrushti Awari
 
-<!--
-**shrushtiawari-cmd/shrushtiawari-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Technology Student | Currently Exploring Software Development 💻
 
-Here are some ideas to get you started:
+I'm an Information Technology student passionate about learning, building, and exploring the world of software development. I enjoy improving my programming skills and working with modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 **Currently learning:** React.js and Java
+* 💻 **Languages & Technologies:** C, C++, JavaScript, HTML, CSS
+* 📫 **How to reach me:** [shrushtiawari@gmail.com](mailto:shrushtiawari@gmail.com)
+
+## 🤝 Connect with me
+
+* 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/shrushti-awari-7411a1329)
+* 🧩 **LeetCode:** [Your LeetCode Profile](https://leetcode.com/u/shrushti_awari)
+
+## 🛠️ Languages and Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,java" />
+</p>
