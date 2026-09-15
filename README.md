@@ -1,6 +1,6 @@
 Hi, I'm Shrushti Awari
 
-Information Technology Student | Currently Exploring Software Development
+Information Technology Student | Software Developer
 
 * **Currently learning:** React.js and Java
 * 📫 **How to reach me:** [shrushtiawari@gmail.com](mailto:shrushtiawari@gmail.com)
