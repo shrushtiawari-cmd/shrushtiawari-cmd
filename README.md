@@ -13,10 +13,13 @@ Information Technology Student | Software Developer
 <a href="https://leetcode.com/u/shrushti_awari">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" alt="LeetCode"/>
 </a>
-<a href="https://www.codechef.com/users/shrushtiawari">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="30" alt="CodeChef"/>
+<a href="https://www.codechef.com/users/shrushtiawari" target="_blank">
+    <img 
+        src="https://cdn.simpleicons.org/codechef/ffffff" 
+        height="30" 
+        alt="CodeChef"
+    />
 </a>
-
 ## Languages and Technologies
 
 <p>
