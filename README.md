@@ -20,6 +20,7 @@ Information Technology Student | Software Developer
         alt="CodeChef"
     />
 </a>
+
 ## Languages and Technologies
 
 <p>
